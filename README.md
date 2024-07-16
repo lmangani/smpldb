@@ -1,6 +1,4 @@
-<img src="https://github.com/lmangani/simpledb/assets/1423657/9e2d6647-d92b-4549-8f7a-7a842983d74a" width=150 />
-
-# SimpleDB
+# SiMPLeDB
 
 > A python example for creating your own online database using [Apache Arrow](https://arrow.apache.org/).
 
